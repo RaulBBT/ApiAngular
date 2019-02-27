@@ -1,4 +1,8 @@
-# Prueba
+# Deploy
+You'll need disabled https
+https://unruffled-jennings-601ffc.netlify.com/cuerpo
+
+# ApiAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
 
