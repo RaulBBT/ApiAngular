@@ -1,0 +1,25 @@
+#divpeli{
+	background-color:#F5F5F5;
+	margin:4px;
+	width:230px;
+	padding:0;
+	border: 1px solid #C1C1C1;
+	font-weight:bolder;
+}
+#rowpeli{
+	margin: 0 auto;
+    width: 90%;
+	text-align:center;
+	
+}
+#divtit{
+	text-align:center;
+	color:white;
+}
+#imagenpeli{
+	width:190px;
+}
+.container-fluid{
+	background-image:url("fondo-starwars.png");
+	background-repeat: repeat;
+}

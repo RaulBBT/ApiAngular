@@ -1,0 +1,26 @@
+#divpeli{
+	background-color:#1F35A3;
+	margin:4px;
+	width:230px;
+	padding:0;
+	border: 1px solid black;
+	font-weight:bolder;
+	color:white;
+}
+#rowpeli{
+	margin: 0 auto;
+    width: 90%;
+	text-align:center;
+}
+#divtit{
+	text-align:center;
+	color:#970000;
+}
+#imagenpeli{
+	width:190px;
+}
+.container-fluid{
+	background-image:url("fondo-superman.jpg");
+	background-repeat: no repeat;
+	background-size:cover;
+}
